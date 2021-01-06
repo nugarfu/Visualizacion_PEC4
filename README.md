@@ -6,3 +6,9 @@ En el presente informe, se analizan los tratados de paz que han tenido lugar des
 El objetivo es estudiar la evolución de estos tratados en el tiempo, teniendo en cuenta el tipo de conflicto y la zona donde se ha producido. Esto nos ayudará a conocer, según las diversas variables, la evolución de los procesos de paz, las características más relevantes y los patrones que nos pueden llevar a entender sucesos parecidos.
 
 Para lograr el objetivo, analizaremos los diferentes tratados europeos desde 1990 y seleccionando los que hacen referencia a los derechos infantiles (derechos de los niñ@s).
+
+Nota: Las imagenes utilizadas se han de cargar en: 
+
+(your directory)\Mi Repositorio de Tableau\Formas  
+
+en el caso que no salgan al cargar el fichero .twb. Copiar las dos carpetas que se encuentran en Imagenes.
